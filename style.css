@@ -1,0 +1,43 @@
+#title, .subtitle {
+    color: rgba(7, 4, 173, 0.795);
+}
+ul{
+    list-style: none;
+}
+#menu{
+    background-color: #333;
+    color: #fff;
+    column-count: 2; /* Número de colunas desejado */
+    column-gap: 20px; /* Espaçamento entre as colunas */
+    font-size: 25px;
+  
+}
+.subtitle{
+    font-size: 36px;
+    font-style: italic;
+}
+.post{
+    text-align: center;
+    background: rgba(168, 168, 168, 0.904);
+    padding: 10px;
+    border: 3px solid black;    
+}
+footer{
+    text-align: center;
+    background: rgba(39, 38, 38, 0.904);
+    padding: 10px;
+    margin-top: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+.rodape{
+    column-count: 3; /* Número de colunas desejado */
+    column-gap: 20px; /* Espaçamento entre as colunas */
+    font-size: 25px;
+    list-style: none;
+
+}
+
